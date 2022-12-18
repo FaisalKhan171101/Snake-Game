@@ -16,3 +16,4 @@ To start the game, download or clone this repository, and in the folder you down
 ```
 $ python snake.py
 ```
+© 2022 Faisal Khan, Presidency University
